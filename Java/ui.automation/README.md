@@ -98,5 +98,5 @@ Framework Architecture
 
 There is a feature overview page:
 
-![Automation Test Report](https://github.com/swathij321/WooliesX.Challenge/Java/raw/master/.README/report.jpg)
+![Automation Test Report](https://raw.githubusercontent.com/swathij321/WooliesX.Challenge/master/Java/ui.automation/report.jpg)
 
