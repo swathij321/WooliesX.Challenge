@@ -1,0 +1,481 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1326957500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the Landing page",
+            "match": {
+              "location": "LoginSteps.i_am_on_the_Landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2065171700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click sign in link and Go to Sign In page",
+            "match": {
+              "location": "LoginSteps.i_click_sign_in_link_and_Go_to_Sign_In_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2609048000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter valid email address \"swathi.jolla@automationpractice.com\" and password \"automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "swathi.jolla@automationpractice.com",
+                  "offset": 29
+                },
+                {
+                  "val": "automationpractice.com",
+                  "offset": 80
+                }
+              ],
+              "location": "LoginSteps.i_enter_valid_email_address_and_password(String,String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 18197277300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeTest(Scenario)"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "I want to be able to add 2 items to the cart",
+        "description": "",
+        "id": "order-creation;i-want-to-be-able-to-add-2-items-to-the-cart;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4785285600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterCartTest(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3374137200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on the My Account page and click the menu Women",
+            "match": {
+              "location": "CartSteps.i_am_on_the_My_Account_page_and_click_the_menu_Women()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2880030900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I select the Faded Short Sleeve T-shirts from catalog and click on it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Faded Short Sleeve T-shirts",
+                  "offset": 13
+                }
+              ],
+              "location": "CartSteps.i_select_the_from_catalog_and_click_on_it(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1338019000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click Add to cart button at the details page",
+            "match": {
+              "location": "CartSteps.i_click_Add_to_cart_button_at_the_details_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2581590300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Click Proceed to checkout button at the modal dialog",
+            "match": {
+              "location": "CartSteps.click_Proceed_to_checkout_button_at_the_modal_dialog()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CartTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 71640700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the Landing page",
+            "match": {
+              "location": "LoginSteps.i_am_on_the_Landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 61198300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click sign in link and Go to Sign In page",
+            "match": {
+              "location": "LoginSteps.i_click_sign_in_link_and_Go_to_Sign_In_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1797282400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter valid email address \"swathi.jolla@automationpractice.com\" and password \"automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "swathi.jolla@automationpractice.com",
+                  "offset": 29
+                },
+                {
+                  "val": "automationpractice.com",
+                  "offset": 80
+                }
+              ],
+              "location": "LoginSteps.i_enter_valid_email_address_and_password(String,String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 703000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeTest(Scenario)"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "I want to be able to add 2 items to the cart",
+        "description": "",
+        "id": "order-creation;i-want-to-be-able-to-add-2-items-to-the-cart;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 7174911500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterCartTest(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1952464600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on the My Account page and click the menu Women",
+            "match": {
+              "location": "CartSteps.i_am_on_the_My_Account_page_and_click_the_menu_Women()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1821561600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I select the Printed Chiffon Dress from catalog and click on it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Printed Chiffon Dress",
+                  "offset": 13
+                }
+              ],
+              "location": "CartSteps.i_select_the_from_catalog_and_click_on_it(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1005995900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click Add to cart button at the details page",
+            "match": {
+              "location": "CartSteps.i_click_Add_to_cart_button_at_the_details_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1410617600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Click Proceed to checkout button at the modal dialog",
+            "match": {
+              "location": "CartSteps.click_Proceed_to_checkout_button_at_the_modal_dialog()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CartTest"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 54500000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the Landing page",
+            "match": {
+              "location": "LoginSteps.i_am_on_the_Landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 52552100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click sign in link and Go to Sign In page",
+            "match": {
+              "location": "LoginSteps.i_click_sign_in_link_and_Go_to_Sign_In_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1406865200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter valid email address \"swathi.jolla@automationpractice.com\" and password \"automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "swathi.jolla@automationpractice.com",
+                  "offset": 29
+                },
+                {
+                  "val": "automationpractice.com",
+                  "offset": 80
+                }
+              ],
+              "location": "LoginSteps.i_enter_valid_email_address_and_password(String,String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "I want to be able to place an order with 2 items in the cart",
+        "description": "",
+        "id": "order-creation;i-want-to-be-able-to-place-an-order-with-2-items-in-the-cart",
+        "after": [
+          {
+            "result": {
+              "duration": 5103045400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterOrderTest(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1632174700,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I am on the My Account page and click the cart icon",
+            "match": {
+              "location": "OrdersSteps.i_am_on_the_My_Account_page_and_click_the_cart_icon()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1778874000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Click Proceed to checkout button at the cart details page",
+            "match": {
+              "location": "OrdersSteps.click_Proceed_to_checkout_button_at_the_cart_details_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1259885500,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Click Proceed to checkout button at the address page",
+            "match": {
+              "location": "OrdersSteps.click_Proceed_to_checkout_button_at_the_address_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1783038100,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Select the Terms of service checkbox at the shipping page and click Proceed to checkout button",
+            "match": {
+              "location": "OrdersSteps.select_the_Terms_of_service_checkbox_at_the_shipping_page_and_click_Proceed_to_checkout_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1261344900,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Click on the Pay by bank wire button at the payment page",
+            "match": {
+              "location": "OrdersSteps.click_on_the_Pay_by_bank_wire_button_at_the_payment_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2410143200,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Click on the I confirm my order button at the order summary page",
+            "match": {
+              "location": "OrdersSteps.click_on_the_I_confirm_my_order_button_at_the_order_summary_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4585567600,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I am able to see the order confirmation page",
+            "match": {
+              "location": "OrdersSteps.i_am_able_to_see_the_order_confirmation_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3151609900,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "Click on sign out link to log out",
+            "match": {
+              "location": "OrdersSteps.Click_on_sign_out_link_to_log_out()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@OrderTest"
+          }
+        ]
+      }
+    ],
+    "name": "Order creation",
+    "description": "\tIn order to make an order\n\tAs a shopping cart user\n\tI want to be able to add 2 items to the cart and place an order",
+    "id": "order-creation",
+    "keyword": "Feature",
+    "uri": "src/test/java/wooliesx/challenge/features/OrdersFeature.feature"
+  }
+]

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3D264F63-D2F3-4D83-BE78-84739A022070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WooliesX.Challenge.Api.Tests", "tests\WooliesX.Challenge.Api.Tests\WooliesX.Challenge.Api.Tests.csproj", "{43BB8599-2449-4077-9D8D-99BE62E3DDA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BB8599-2449-4077-9D8D-99BE62E3DDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BB8599-2449-4077-9D8D-99BE62E3DDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BB8599-2449-4077-9D8D-99BE62E3DDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BB8599-2449-4077-9D8D-99BE62E3DDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43BB8599-2449-4077-9D8D-99BE62E3DDA9} = {3D264F63-D2F3-4D83-BE78-84739A022070}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47154E8-1002-4FA1-AB33-8B2A34AED573}
+	EndGlobalSection
+EndGlobal

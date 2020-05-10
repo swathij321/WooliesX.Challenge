@@ -1,0 +1,17 @@
+﻿2020-05-06T23:17:59.8480347+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-05-06T23:17:59.8483885+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.22 in Framework netcore31 in x64 mode execution started
+2020-05-06T23:17:59.8483966+10:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-05-06T23:17:59.9009480+10:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\WooliesX.Challenge.Api.Tests.dll
+2020-05-06T23:17:59.9014459+10:00;VSTestExecutionThread;Info;Output folder configured to "D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\TestResults" (default)
+2020-05-06T23:17:59.9015947+10:00;VSTestExecutionThread;Info;Profile: 
+2020-05-06T23:17:59.9908852+10:00;VSTestExecutionThread;Info;Log file path: D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\TestResults\Unnamed project__2020-05-06T231759.log
+2020-05-06T23:18:00.0016640+10:00;Thread#12;Info;Checking activation
+2020-05-06T23:18:01.7196345+10:00;Thread#12;Error;No tests executed (activation needed)
+2020-05-06T23:18:01.7457569+10:00:Total: 0
+2020-05-06T23:18:01.7511933+10:00:Succeeded: 0
+2020-05-06T23:18:01.7518910+10:00:Ignored: 0
+2020-05-06T23:18:01.7525969+10:00:Pending: 0
+2020-05-06T23:18:01.7541063+10:00:Skipped: 0
+2020-05-06T23:18:01.7548978+10:00:Failed: 0
+2020-05-06T23:18:01.7679502+10:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

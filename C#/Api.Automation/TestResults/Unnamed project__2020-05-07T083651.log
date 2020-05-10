@@ -1,0 +1,127 @@
+﻿2020-05-07T08:36:51.0824929+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-05-07T08:36:51.0825951+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.22 in Framework netcore31 in x64 mode execution started
+2020-05-07T08:36:51.0825986+10:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-05-07T08:36:51.1198942+10:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\WooliesX.Challenge.Api.Tests.dll
+2020-05-07T08:36:51.1205249+10:00;VSTestExecutionThread;Info;Output folder configured to "D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\TestResults" (default)
+2020-05-07T08:36:51.1206514+10:00;VSTestExecutionThread;Info;Profile: 
+2020-05-07T08:36:51.1986669+10:00;VSTestExecutionThread;Info;Log file path: D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\TestResults\Unnamed project__2020-05-07T083651.log
+2020-05-07T08:36:51.2078181+10:00;Thread#12;Info;Checking activation
+2020-05-07T08:36:51.3337632+10:00;Thread#12;Info;Activation check completed
+2020-05-07T08:36:51.3338654+10:00;Thread#12;Info;Starting test run
+2020-05-07T08:36:51.3467730+10:00;Thread#12;Info;Discovering target: Default
+2020-05-07T08:36:51.3469996+10:00;Thread#12;Info;Discovering tests from assembly: D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\WooliesX.Challenge.Api.Tests.dll
+2020-05-07T08:36:51.5031065+10:00;Thread#12;Info;Discovered tests from assembly: D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\WooliesX.Challenge.Api.Tests.dll
+2020-05-07T08:36:51.5043974+10:00:Test Suite Dump
+2020-05-07T08:36:51.5060950+10:00:#0: Unnamed project/ - 
+2020-05-07T08:36:51.5061238+10:00:#1: Default - 
+2020-05-07T08:36:51.5061269+10:00:#2: WooliesX.Challenge.Api.Tests - 
+2020-05-07T08:36:51.5061287+10:00:#3: A Happy Holiday Maker - 
+2020-05-07T08:36:51.5074523+10:00:#4: A happy holidaymaker, Sydney - TestAssembly:WooliesX.Challenge.Api.Tests/Feature:A+Happy+Holiday+Maker/Scenario:A+happy+holidaymaker%2c+Sydney
+2020-05-07T08:36:51.5075204+10:00:End: Test Suite Dump
+2020-05-07T08:36:51.5263047+10:00:Thread#0:Scheduler: get next test for thread 0
+2020-05-07T08:36:51.5284076+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-05-07T08:36:51.5285567+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-05-07T08:36:51.5323425+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-05-07T08:36:51.5323603+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-05-07T08:36:51.5323623+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-05-07T08:36:51.5323661+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-05-07T08:36:51.5331196+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-05-07T08:36:51.5347899+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-05-07T08:36:51.5373699+10:00:Thread #0: creating new test thread executor for WooliesX.Challenge.Api.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-05-07T08:36:51.5401764+10:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-05-07T08:36:51.5403855+10:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-05-07T08:36:51.5483518+10:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-05-07T08:36:51.5501725+10:00:starting Out Of Process Executor
+2020-05-07T08:36:51.5578830+10:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-05-07T08:36:51.5606983+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-05-07T08:36:51.5607204+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-05-07T08:36:51.5618165+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1'
+2020-05-07T08:36:51.5621660+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-05-07T08:36:51.5622485+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-05-07T08:36:51.5622705+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1'
+2020-05-07T08:36:51.5693419+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-05-07T08:36:51.5693606+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-05-07T08:36:51.5694115+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-05-07T08:36:51.5694425+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-05-07T08:36:51.5695743+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-05-07T08:36:51.5695826+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-05-07T08:36:51.5696134+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-05-07T08:36:51.5696363+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-05-07T08:36:51.5697616+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-05-07T08:36:51.5697694+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.dll'
+2020-05-07T08:36:51.5698032+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Validation.exe'
+2020-05-07T08:36:51.5698261+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-05-07T08:36:51.5779965+10:00:Starting callback TCP Rpc server
+2020-05-07T08:36:51.6015614+10:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-05-07T08:36:51.6016479+10:00:Started callback TCP Rpc server on port 32768
+2020-05-07T08:36:51.6016516+10:00:Starting logger TCP Rpc server
+2020-05-07T08:36:51.6038847+10:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-05-07T08:36:51.6039359+10:00:Started logger TCP Rpc server on port 32769
+2020-05-07T08:36:51.7059705+10:00;Thread#12;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2020-05-07T08:36:51.8116169+10:00;Thread#12;Info;Successfully started SpecFlow+ Runner executor process
+2020-05-07T08:36:51.8217020+10:00:Out of Process Executor 40040 started
+2020-05-07T08:36:51.8217494+10:00:Waiting for endpoint
+2020-05-07T08:36:52.5211401+10:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-05-07T08:36:52.5212094+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-05-07T08:36:52.5212124+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-05-07T08:36:52.5212186+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1'
+2020-05-07T08:36:52.5212203+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-05-07T08:36:52.5212559+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-05-07T08:36:52.5212691+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1'
+2020-05-07T08:36:52.5220536+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-05-07T08:36:52.5220656+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-05-07T08:36:52.5221185+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-05-07T08:36:52.5221518+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.1'
+2020-05-07T08:36:52.5222957+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-05-07T08:36:52.5223046+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-05-07T08:36:52.5223346+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-05-07T08:36:52.5223579+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.1'
+2020-05-07T08:36:52.5224800+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-05-07T08:36:52.5224874+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.dll'
+2020-05-07T08:36:52.5225196+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1\Microsoft.VisualStudio.Threading.exe'
+2020-05-07T08:36:52.5225418+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.1'
+2020-05-07T08:36:52.8931815+10:00:Remote executor port received: 32770
+2020-05-07T08:36:52.8935634+10:00:Creating executor TCP client on port 32770
+2020-05-07T08:36:52.8940178+10:00:Created executor TCP client on port 32770
+2020-05-07T08:36:52.8940260+10:00:Connecting to remote executor TCP server
+2020-05-07T08:36:52.8949994+10:00:Connected remote executor TCP server
+2020-05-07T08:36:52.8956780+10:00:trying to connect to Out of Process Executor the 1 attempt
+2020-05-07T08:36:52.8956874+10:00:Connection to Out of Process Executor established in the 1 attempt
+2020-05-07T08:36:53.0639296+10:00:2020-05-07T08:36:53.0623608+10:00:OutOfProcessTestAssemblyExecutor: initialized for D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\WooliesX.Challenge.Api.Tests.dll on test thread #0
+2020-05-07T08:36:53.0695263+10:00:Endpoint 40040 started
+2020-05-07T08:36:53.0906528+10:00:2020-05-07T08:36:53.0894344+10:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-05-07T08:36:53.2163995+10:00:2020-05-07T08:36:53.2156819+10:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-05-07T08:36:53.2207701+10:00:2020-05-07T08:36:53.2199908+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-05-07T08:36:53.2248620+10:00:2020-05-07T08:36:53.2240751+10:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\aruna.bala\.nuget\packages\specflow\3.1.97\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-05-07T08:36:53.3732126+10:00:2020-05-07T08:36:53.3715807+10:00:Thread#0:T:-> Loading plugin D:\Aruna\per\Projects\WooliesXTest\WooliesX.Challenge\tests\WooliesX.Challenge.Api.Tests\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-05-07T08:36:53.3836001+10:00:2020-05-07T08:36:53.3821296+10:00:Assembly resolving TechTalk.SpecFlow, Version=3.1.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-05-07T08:36:53.3904242+10:00:2020-05-07T08:36:53.3890023+10:00:Thread#0:T:-> Using default config
+2020-05-07T08:36:53.4069013+10:00:2020-05-07T08:36:53.4053697+10:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-05-07T08:36:53.4094548+10:00:2020-05-07T08:36:53.4082595+10:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-05-07T08:36:53.4119294+10:00:2020-05-07T08:36:53.4109359+10:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\aruna.bala\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-05-07T08:36:53.4203512+10:00:2020-05-07T08:36:53.4192785+10:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-05-07T08:36:53.4222643+10:00:2020-05-07T08:36:53.4215367+10:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-05-07T08:36:53.4242366+10:00:2020-05-07T08:36:53.4235119+10:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\aruna.bala\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-05-07T08:36:53.4555747+10:00:2020-05-07T08:36:53.4542663+10:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-05-07T08:36:53.4575665+10:00:2020-05-07T08:36:53.4569554+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-05-07T08:36:53.4599554+10:00:2020-05-07T08:36:53.4586700+10:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\aruna.bala\.nuget\packages\microsoft.testplatform.objectmodel\16.2.0\lib\netstandard1.5\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-05-07T08:36:53.5010487+10:00:2020-05-07T08:36:53.5002461+10:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-05-07T08:36:53.5025207+10:00:2020-05-07T08:36:53.5019941+10:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-05-07T08:36:53.5039261+10:00:2020-05-07T08:36:53.5034743+10:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\aruna.bala\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-05-07T08:36:53.7620115+10:00:Thread#0: Test #4/0 is started on thread #0
+2020-05-07T08:36:53.8164088+10:00:2020-05-07T08:36:53.8153704+10:00:Thread#0:B:Given I like to holiday in Sydney
+2020-05-07T08:36:53.8338882+10:00:2020-05-07T08:36:53.8332309+10:00:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2020-05-07T08:36:53.8353166+10:00:2020-05-07T08:36:53.8347077+10:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json file
+2020-05-07T08:36:53.8367931+10:00:2020-05-07T08:36:53.8363027+10:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\aruna.bala\.nuget\packages\microsoft.extensions.configuration.abstractions\3.1.3\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll'
+2020-05-07T08:36:53.8439339+10:00:2020-05-07T08:36:53.8432370+10:00:Assembly resolving Microsoft.Extensions.Configuration, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2020-05-07T08:36:53.8483454+10:00:2020-05-07T08:36:53.8444982+10:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration' from .deps.json file
+2020-05-07T08:36:53.8496778+10:00:2020-05-07T08:36:53.8492115+10:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration' to 'C:\Users\aruna.bala\.nuget\packages\microsoft.extensions.configuration\3.1.3\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.dll'
+2020-05-07T08:36:53.8568388+10:00:2020-05-07T08:36:53.8562392+10:00:Assembly resolving Microsoft.Extensions.Configuration.FileExtensions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2020-05-07T08:36:53.8579956+10:00:2020-05-07T08:36:53.8576016+10:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.FileExtensions' from .deps.json file
+2020-05-07T08:36:53.8591756+10:00:2020-05-07T08:36:53.8587166+10:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.FileExtensions' to 'C:\Users\aruna.bala\.nuget\packages\microsoft.extensions.configuration.fileextensions\3.1.3\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll'
+2020-05-07T08:36:53.8654233+10:00:2020-05-07T08:36:53.8648987+10:00:Assembly resolving Microsoft.Extensions.Configuration.Json, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2020-05-07T08:36:53.8665586+10:00:2020-05-07T08:36:53.8660831+10:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Json' from .deps.json file
+2020-05-07T08:36:53.8677056+10:00:2020-05-07T08:36:53.8672937+10:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Json' to 'C:\Users\aruna.bala\.nuget\packages\microsoft.extensions.configuration.json\3.1.3\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll'
+2020-05-07T08:36:53.8742354+10:00:2020-05-07T08:36:53.8735604+10:00:Assembly resolving Microsoft.Extensions.Configuration.EnvironmentVariables, Version=3.1.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2020-05-07T08:36:53.8753275+10:00:2020-05-07T08:36:53.8749302+10:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.EnvironmentVariables' from .deps.json file
+2020-05-07T08:36:53.8764874+10:00:2020-05-07T08:36:53.8760646+10:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.EnvironmentVariables' to 'C:\Users\aruna.bala\.nuget\packages\microsoft.extensions.configuration.environmentvariables\3.1.3\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'
