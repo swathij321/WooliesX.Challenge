@@ -2,18 +2,18 @@
 
 ### Challenge 1 (UI Automation)
 
-**Challenge 1 is placed under `/Java` directory.**
+(**Challenge 1 is placed under `/Java` directory.**)
 
-Create an automated smoke test suite for the below Acceptance Criteria,
+Challenge: Create an automated smoke test suite for the below Acceptance Criteria,
 
 **Acceptance Criteria**: I want to be able to add 2 items to the cart and place an order in http://automationpractice.com/index.php
 
 
 ### Challenge 2 (API Automation)
 
-**Challenge 2 is placed under `C#` and `/Java` directories.**
+(**Challenge 2 is placed under `C#` and `/Java` directories.**)
 
-Create an API automation test suite for http://openweathermap.org/forecast16 with the below Acceptance Criteria,
+Challenge: Create an API automation test suite for http://openweathermap.org/forecast16 with the below Acceptance Criteria,
 
 **Acceptance Criteria**
 

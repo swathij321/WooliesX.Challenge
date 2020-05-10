@@ -96,7 +96,5 @@ Framework Architecture
 
 ### Cucumber Report
 
-There is a feature overview page:
-
 ![Automation Test Report](https://raw.githubusercontent.com/swathij321/WooliesX.Challenge/master/Java/ui.automation/report.jpg)
 
